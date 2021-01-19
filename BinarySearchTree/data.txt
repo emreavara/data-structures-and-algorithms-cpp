@@ -1,0 +1,11 @@
+128118145,Mervan,Behcet,25
+153622669,Bugra,Ayvaz,87
+131035784,Ozgur,Cihan,65
+158142531,Mengu,Kartal,74
+137121004,Guncicek,Elmas,62
+120254705,Aysoy,Olmez,24
+154243711,Gullu,Enveri,98
+125329265,Havva,Mumcu,57
+154865652,Nisan,Tahir,39
+153622669,Bugra,Ayvaz,87
+151594960,Bican,Akbay,42
